@@ -38,11 +38,12 @@
 
 .header-title {
   text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .header-title h1,
 .header-title h2 {
-  font-weight: 700;
+  font-weight: 1000;
   font-size: 40px;
   line-height: 52px;
   color: #172b4d;
@@ -72,7 +73,7 @@
 }
 
 .icons li {
-  padding: 4px;
+  padding: 10px;
 }
 
 .anchor-arrow {
